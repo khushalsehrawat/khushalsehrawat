@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khushalsehrawat
-- 👀 I’m interested in graphic designing, photo editing, colour grading.
-- 🌱 I’m currently learning full stack web devlopment course. 
+- 👀 I’m interested in Full-Stack developer and graphic designing as a hobby. 
 - 💞️ I’m looking to collaborate on full stack devloper and graphic designer.
 - 📫 khushalsehrawat28@gmail.com
 
