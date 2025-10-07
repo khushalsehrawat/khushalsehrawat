@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate on full stack devloper and graphic designer.
 - 📫 khushalsehrawat28@gmail.com
 
+LinkedIn - https://www.linkedin.com/in/khushalsehrawat/
+
 🌐 Visit my web development studio — [TheVB24.com](https://www.thevb24.com)
 
 <!---
