@@ -5,7 +5,7 @@
 
 LinkedIn - https://www.linkedin.com/in/khushalsehrawat/
 
-🌐 Visit my web development studio — [TheVB24.com](https://www.thevb24.com)
+🌐 Visit my web development studio — Founder, CEO [TheBenzzCreations.com](https://www.thebenzzcreations.com)
 
 <!---
 khushalsehrawat/khushalsehrawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
