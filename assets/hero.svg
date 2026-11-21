@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-label="Khushal Sehrawat, software developer, DevOps and cloud engineering">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#121b32"/><stop offset=".48" stop-color="#263c54"/><stop offset="1" stop-color="#183f45"/></linearGradient>
+ <linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#b9e7d8"/><stop offset=".55" stop-color="#b9c8eb"/><stop offset="1" stop-color="#dbc7e8"/></linearGradient>
+ <radialGradient id="g"><stop stop-color="#a8e2ce" stop-opacity=".18"/><stop offset="1" stop-color="#a8e2ce" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity=".06"/></pattern>
+ <clipPath id="c"><rect width="1200" height="410" rx="23"/></clipPath>
+</defs>
+<g clip-path="url(#c)"><rect width="1200" height="410" fill="url(#bg)"/><rect width="1200" height="410" fill="url(#grid)"/>
+<circle cx="950" cy="95" r="300" fill="url(#g)"><animate attributeName="cx" values="930;990;930" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="160" cy="450" r="280" fill="url(#g)"><animate attributeName="cy" values="450;380;450" dur="10s" repeatCount="indefinite"/></circle>
+<path d="M820 0L1200 0 1200 410 1085 410Z" fill="#d1e9e1" opacity=".045"/>
+<path d="M880 70 C1060 10 1090 290 1210 195" fill="none" stroke="#9dcdbf" stroke-width="1" stroke-opacity=".25"/>
+<path d="M800 265 C980 90 1020 370 1210 260" fill="none" stroke="#b9c8eb" stroke-width="1" stroke-opacity=".2"/>
+<rect x="65" y="57" width="190" height="30" rx="15" fill="#d9f4e8" fill-opacity=".1" stroke="#beddd1" stroke-opacity=".4"/>
+<circle cx="86" cy="72" r="5" fill="#91e5bb"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="103" y="77" fill="#d8eee7" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.6">BUILD · SHIP · OPERATE</text>
+<text x="62" y="170" fill="#f3f6fa" font-size="66" font-family="Georgia,serif" font-weight="bold">Khushal Sehrawat</text>
+<rect x="65" y="191" width="470" height="4" rx="2" fill="url(#a)"/>
+<text x="65" y="244" fill="#cde2ec" font-family="Arial,sans-serif" font-size="23">Software Developer  /  DevOps &amp; Cloud Engineering</text>
+<text x="65" y="284" fill="#d3dfe7" font-family="Arial,sans-serif" font-size="17">Backend systems · Modern web &amp; mobile · Delivery infrastructure</text>
+<text x="65" y="345" fill="#d4e5e5" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">NEW DELHI, INDIA    ·    OPEN TO ENGINEERING OPPORTUNITIES</text>
+<g opacity=".9"><rect x="875" y="130" width="260" height="145" rx="16" fill="#0a1825" fill-opacity=".38" stroke="#c7e5de" stroke-opacity=".28"/>
+<circle cx="900" cy="155" r="5" fill="#cda1a1"/><circle cx="916" cy="155" r="5" fill="#e0c89b"/><circle cx="932" cy="155" r="5" fill="#9bd6ba"/>
+<text x="897" y="198" font-family="monospace" font-size="16" fill="#afdfca">$ build --production</text>
+<text x="897" y="229" font-family="monospace" font-size="15" fill="#c6d9e5">✓ code  ✓ cloud</text>
+<text x="897" y="255" font-family="monospace" font-size="15" fill="#c6d9e5">✓ deploy ✓ improve</text></g>
+</g></svg>
