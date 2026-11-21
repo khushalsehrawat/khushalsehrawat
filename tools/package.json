@@ -1,0 +1,1 @@
+{ "private": true, "description": "Icon sources used by build_assets.py", "dependencies": { "devicon": "*", "simple-icons": "*" } }

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 245 48" width="245" height="48" role="img" aria-labelledby="t d"><title id="t">Visit TheBenzzCreations</title><desc id="d">Visit TheBenzzCreations</desc><style>text{font-family:'Manrope','Plus Jakarta Sans','Inter','Segoe UI',Helvetica,Arial,sans-serif}
+@keyframes flow{to{stroke-dashoffset:-96}}
+@keyframes pulse{0%,100%{opacity:.3;transform:scale(1)}50%{opacity:.85;transform:scale(1.5)}}
+@keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(22px,-14px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes twinkle{0%,100%{opacity:.15}50%{opacity:.7}}
+.flow{stroke-dasharray:5 9;animation:flow 7s linear infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 5s ease-in-out infinite}
+.drift{animation:drift 16s ease-in-out infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 120s linear infinite}
+.tw{animation:twinkle 6s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style><defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C9C3D9"/><stop offset=".5" stop-color="#B9CCC6"/><stop offset="1" stop-color="#A9B9C9"/></linearGradient></defs><rect x="1" y="1" width="243" height="46" rx="23.0" fill="url(#b)" stroke="#25313D" stroke-opacity=".35"/><text x="122.5" y="29.5" font-size="15" font-weight="700" fill="#25313D" text-anchor="middle">Visit TheBenzzCreations</text></svg>

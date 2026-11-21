@@ -1,182 +1,109 @@
-<!-- Khushal Sehrawat · GitHub profile README | Premium editorial / midnight-sage visual system -->
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Khushal Sehrawat — Software Developer, DevOps and Cloud Engineering" width="100%" />
+<img src="assets/hero.svg" width="100%" alt="Khushal Sehrawat. Software Developer, Backend Engineer, DevOps and Cloud. From architecture to deployment.">
 
-<br/>
-
-<a href="https://www.thebenzzcreations.com"><img src="https://img.shields.io/badge/Explore%20my%20studio-TheBenzzCreations-284C4A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit TheBenzzCreations" /></a>
-<a href="https://www.linkedin.com/in/khushalsehrawat/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-345C73?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="mailto:khushalsehrawat2003@gmail.com?subject=Engineering%20Opportunity"><img src="https://img.shields.io/badge/Let's%20work%20together-Email-604B68?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Khushal" /></a>
-
-**Software Engineering** &nbsp; · &nbsp; **Backend & APIs** &nbsp; · &nbsp; **DevOps / Cloud** &nbsp; · &nbsp; **Web & Mobile**
-
-*I build applications, automate their delivery, and work on the infrastructure that keeps them running.*
+<a href="#studio">Studio</a> &nbsp;·&nbsp; <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp; <a href="#work">Selected work</a> &nbsp;·&nbsp; <a href="#experience">Experience</a> &nbsp;·&nbsp; <a href="#activity">Activity</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
 
 </div>
 
----
-
-### 01 / What I bring to the team
-
-<table><tr>
-<td width="50%" valign="top">
-
-**BUILD · Application engineering**
-
-- Java / Spring Boot APIs, authentication, persistence and integrations
-- Node.js / Express services and database-backed applications
-- Next.js websites and React Native / Expo mobile applications
-- Real-world debugging across frontend, backend and databases
-
-</td><td width="50%" valign="top">
-
-**SHIP · DevOps & cloud engineering**
-
-- Docker / Compose, Linux servers, GitHub Actions and CI/CD
-- Deployments, Nginx, DNS, SSL/TLS and production troubleshooting
-- MySQL, PostgreSQL and MariaDB configuration and migrations
-- AWS, Jenkins and Ansible through hands-on infrastructure labs
-
-</td></tr></table>
-
-> **My focus:** bridging application development and delivery — from implementing an API to diagnosing a failed build, database connection, or deployment.
-
-### 02 / Selected engineering work
+<br>
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="33%" valign="top">
 
-**INOX digital platform** · *Professional work*
+**Build**<br>
+Java / Spring Boot and Node.js / Express backends, REST APIs and relational databases, with React Native / Expo and Next.js on the front.
 
-React Native / Expo app, Node.js / Express APIs, Next.js web platform and MySQL/MariaDB. Worked on authentication, integration, database rollout, GitHub Actions pipelines, container workflows, hosting, DNS and deployment troubleshooting.
+</td>
+<td width="33%" valign="top">
 
-`React Native` `Next.js` `Node.js` `Docker` `MariaDB`
+**Ship**<br>
+Docker environments, GitHub Actions pipelines and image publishing, Nginx, DNS and SSL on Linux hosts.
 
-</td><td width="50%" valign="top">
+</td>
+<td width="33%" valign="top">
 
-**[SentinelAI](https://github.com/khushalsehrawat/SentinelAI)** · *AI-assisted security backend*
+**Operate**<br>
+Tracing failed builds, database connectivity, migrations and deployment issues. Now deepening Kubernetes, AWS and monitoring.
 
-Containerized incident-analysis backend with severity classification, contextual RAG analysis, JWT-protected APIs and incident history.
-
-`Java` `Spring Boot` `JWT` `Docker` `MySQL` `RAG`
-
-**[View source →](https://github.com/khushalsehrawat/SentinelAI)**
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-**[SHRAWN · SpendWise AI Assistant](https://github.com/khushalsehrawat/shrawn)** · *AI + finance*
-
-LLM-powered expense categorization and retrieval-augmented financial insights, including spending trends and monthly summaries.
-
-`Spring AI` `Spring Boot` `PGVector` `PostgreSQL` `Docker`
-
-**[View source →](https://github.com/khushalsehrawat/shrawn)**
-
-</td><td width="50%" valign="top">
-
-**Cloud automation & delivery labs** · *Hands-on practice*
-
-Provisioned and explored AWS EC2, IAM, S3, security groups and CloudWatch; built Jenkins pipelines and Ansible playbooks for Linux, Docker, Nginx and application deployments.
-
-`AWS` `Jenkins` `Ansible` `Linux` `CI/CD`
-
-**[Explore Jenkins learning repo →](https://github.com/khushalsehrawat/jenkin-learn)**
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-**[BeneLoan](https://github.com/khushalsehrawat/BeneLoan)** · *Backend engineering*
-
-Loan and beneficiary management API work, including authentication, validation and database design.
-
-`Java` `Spring Boot` `REST APIs` `SQL`
-
-**[View source →](https://github.com/khushalsehrawat/BeneLoan)**
-
-</td><td width="50%" valign="top">
-
-**[DuskyHospital](https://github.com/khushalsehrawat/DuskyHospital)** · *Secure backend*
-
-Healthcare API with role-based access for administrative and clinical workflows.
-
-`Java` `Spring Security` `JWT` `RBAC`
-
-**[View source →](https://github.com/khushalsehrawat/DuskyHospital)**
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/khushalsehrawat?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20ALL%20PUBLIC%20REPOSITORIES-263A4D?style=for-the-badge&logo=github&logoColor=white" alt="Browse all public repositories" /></a>
-</div>
+<sub>Work in production or for clients is marked with a solid dot in the toolkit. AWS, Jenkins, Ansible and Kubernetes come from personal labs, and I label them that way.</sub>
 
-### 03 / The tools behind the work
-
-**Languages & backend**
-
-![Java](https://img.shields.io/badge/Java-25495A?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-25495A?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-25495A?style=flat-square&logo=springsecurity&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-25495A?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-25495A?style=flat-square&logo=python&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-25495A?style=flat-square)
-
-**Cloud, infrastructure & delivery**
-
-![AWS](https://img.shields.io/badge/AWS-315E59?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-315E59?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-315E59?style=flat-square&logo=linux&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-315E59?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-315E59?style=flat-square&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-315E59?style=flat-square&logo=ansible&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-315E59?style=flat-square&logo=nginx&logoColor=white)
-
-**Frontend, mobile & data**
-
-![Next.js](https://img.shields.io/badge/Next.js-5C566D?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-5C566D?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-5C566D?style=flat-square&logo=expo&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-5C566D?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5C566D?style=flat-square&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-5C566D?style=flat-square&logo=mariadb&logoColor=white)
-
-<sub>Currently expanding hands-on experience with Kubernetes (Minikube, kubectl, Pods, Deployments and Services), cloud operations and observability.</sub>
-
-### 04 / Experience — engineering across the stack
-
-| Period | Role | Where I contributed |
-| :-- | :-- | :-- |
-| **Sep 2026 – Present** | **Software Developer · INOX Decor** | Mobile + web platform development; backend integration; Docker, GitHub Actions, database and deployment operations. |
-| **Jul 2025 – Aug 2026** | **Freelance Software / Web Developer · TheBenzzCreations** | Delivered client websites and APIs; managed hosting, Linux, domains, SSL, Nginx and ongoing maintenance. |
-| **May 2024 – Jun 2025** | **Software Developer · Hurlad By The Eaglets** | Java / Spring Boot services, full-stack functionality, SQL, testing and debugging. |
-
-### 05 / Independent work · TheBenzzCreations
-
-<table><tr><td width="66%" valign="top">
-
-**[TheBenzzCreations](https://www.thebenzzcreations.com)** — my independent software and web development studio.
-
-I work across custom websites, backend services, business applications and deployment workflows, with an emphasis on practical delivery and ongoing support.
-
-**For collaboration:** client web platforms · backend APIs · full-stack development · DevOps support · deployment troubleshooting.
-
-**[Explore the studio →](https://www.thebenzzcreations.com)**
-
-</td><td valign="top" align="center">
-
-<a href="https://www.thebenzzcreations.com"><img src="https://img.shields.io/badge/IDEA-→%20BUILD%20→%20LAUNCH-315E59?style=for-the-badge" alt="Idea to build to launch" /></a>
-
-*Built for businesses, not just demos.*
-
-</td></tr></table>
-
-### 06 / GitHub activity · work in motion
+<a id="studio"></a>
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=khushalsehrawat&theme=transparent&hide_border=true&ring=77BCA7&fire=77BCA7&currStreakLabel=77BCA7&sideLabels=8CA9B0" alt="GitHub contribution streak" width="65%" />
+<a href="https://thebenzzcreations.com"><img src="assets/thebenzzcreations.svg" width="100%" alt="TheBenzzCreations, a digital engineering and development studio. Have a product idea? Let's engineer it."></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalsehrawat&bg_color=0D1729&color=BBD6D8&line=81BDA9&point=F0D6B1&area=true&hide_border=true&custom_title=Contribution%20activity" alt="GitHub contribution activity graph" width="100%" />
-
-<sub>Live GitHub activity reflects public and eligible contributions; private work and client repositories may not be visible. Activity images depend on third-party services.</sub>
+**[Explore TheBenzzCreations](https://thebenzzcreations.com)**
 
 </div>
 
-### 07 / Let's build something useful
+<a id="toolkit"></a>
+<br>
 
-I’m interested in **DevOps / Cloud Engineer**, **Software Developer**, **Java Backend** and **Full-Stack** opportunities — particularly where I can own a feature, automate delivery, and solve production problems.
+<img src="assets/skills.svg" width="100%" alt="Toolkit: backend, frontend and mobile, DevOps, cloud, databases, AI, languages, and what I am currently learning.">
+
+<a id="work"></a>
+<br>
+
+<img src="assets/project-showcase.svg" width="100%" alt="Selected work">
+
+<p align="center">
+<a href="https://github.com/khushalsehrawat/SentinelAI"><img src="assets/projects/sentinelai.svg" width="432" alt="SentinelAI. AI-assisted security incident analysis with Spring Boot, Docker, MySQL, JWT and RAG."></a>
+<a href="https://github.com/khushalsehrawat/shrawn"><img src="assets/projects/shrawn.svg" width="432" alt="SHRAWN. SpendWise AI assistant with Spring AI, PostgreSQL, PGVector and Docker."></a>
+<a href="https://github.com/khushalsehrawat/BeneLoan"><img src="assets/projects/beneloan.svg" width="432" alt="BeneLoan. Secure backend and business workflow management."></a>
+<a href="https://github.com/khushalsehrawat/DuskyHospital"><img src="assets/projects/duskyhospital.svg" width="432" alt="DuskyHospital. Healthcare backend with Spring Security and RBAC."></a>
+<a href="https://github.com/khushalsehrawat/suems"><img src="assets/projects/suems.svg" width="432" alt="SUEMS. Energy management and analytics."></a>
+<a href="https://github.com/khushalsehrawat/jenkin-learn"><img src="assets/projects/cicd-labs.svg" width="432" alt="Jenkins and Ansible labs. CI/CD pipelines and configuration automation."></a>
+<a href="https://github.com/khushalsehrawat?tab=repositories"><img src="assets/projects/aws-labs.svg" width="432" alt="AWS infrastructure labs. EC2, IAM, S3, CloudWatch and security groups."></a>
+<a href="https://github.com/khushalsehrawat?tab=repositories"><img src="assets/projects/all-repos.svg" width="432" alt="Browse all public repositories."></a>
+</p>
+
+<a id="experience"></a>
+<br>
+
+<img src="assets/experience.svg" width="100%" alt="Experience: INOX Decor, TheBenzzCreations and Hurlad By The Eaglets.">
+
+<a id="activity"></a>
+<br>
 
 <div align="center">
 
-<a href="mailto:khushalsehrawat2003@gmail.com?subject=Engineering%20Opportunity%20for%20Khushal%20Sehrawat"><img src="https://img.shields.io/badge/HIRE%20/%20COLLABORATE-EMAIL%20ME-284C4A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Khushal about work" /></a>
-<a href="https://www.linkedin.com/in/khushalsehrawat/"><img src="https://img.shields.io/badge/VIEW%20MY%20PROFILE-LINKEDIN-345C73?style=for-the-badge&logo=linkedin&logoColor=white" alt="View LinkedIn profile" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushalsehrawat/khushalsehrawat/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/khushalsehrawat/khushalsehrawat/output/snake-light.svg" width="100%" alt="Contribution graph with a snake eating my public contributions.">
+</picture>
 
-<sub>B.Tech · Computer Science & Engineering · Maharshi Dayanand University, 2026</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalsehrawat&bg_color=4E6076&color=E5E7E5&line=A8C4B8&point=D8D2EA&area=true&area_color=8FAEA3&hide_border=true&custom_title=Contribution%20activity&radius=16" width="100%" alt="Contribution activity graph.">
+
+<img src="https://github-readme-stats.vercel.app/api?username=khushalsehrawat&show_icons=true&hide_border=true&bg_color=135,4E6076,6A8097&title_color=F4F5F2&text_color=F4F5F2&icon_color=C9E0D8&ring_color=C9E0D8&border_radius=16&custom_title=GitHub%20overview" width="432" alt="GitHub statistics.">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalsehrawat&layout=compact&hide_border=true&bg_color=135,4E6076,6A8097&title_color=F4F5F2&text_color=F4F5F2&border_radius=16&custom_title=Languages%20in%20public%20repos" width="432" alt="Most used languages in public repositories.">
+
+<img src="https://streak-stats.demolab.com/?user=khushalsehrawat&background=56697F&border=ffffff00&stroke=ffffff00&ring=C9E0D8&fire=D8D2EA&currStreakNum=F4F5F2&sideNums=F4F5F2&currStreakLabel=E5E7E5&sideLabels=E5E7E5&dates=C9D3DD&hide_border=true&border_radius=16" width="432" alt="Contribution streak.">
+
+<sub>These charts count public, eligible GitHub activity only. Client and employer work lives in private repositories and does not appear here.</sub>
 
 </div>
+
+<a id="contact"></a>
+<br>
+
+<img src="assets/contact.svg" width="100%" alt="Great software deserves thoughtful engineering. Let's build something meaningful.">
+
+<p align="center">
+<a href="mailto:khushalsehrawat2003@gmail.com?subject=Engineering%20role%20for%20Khushal"><img src="assets/buttons/hire.svg" height="44" alt="Hire me for a role"></a>
+<a href="mailto:khushalsehrawat2003@gmail.com?subject=Freelance%20project%20enquiry"><img src="assets/buttons/freelance.svg" height="44" alt="Start a freelance project"></a>
+<a href="https://thebenzzcreations.com"><img src="assets/buttons/studio.svg" height="44" alt="Visit TheBenzzCreations"></a>
+<br>
+<a href="https://linkedin.com/in/khushalsehrawat/"><img src="assets/buttons/linkedin.svg" height="44" alt="LinkedIn"></a>
+<a href="https://github.com/khushalsehrawat?tab=repositories"><img src="assets/buttons/repos.svg" height="44" alt="GitHub repositories"></a>
+<a href="mailto:khushalsehrawat2003@gmail.com"><img src="assets/buttons/email.svg" height="44" alt="Send an email"></a>
+</p>
+
+<p align="center"><sub>B.Tech, Computer Science and Engineering, Maharshi Dayanand University (2026) &nbsp;·&nbsp; Logos: <a href="ATTRIBUTION.md">attribution</a></sub></p>
